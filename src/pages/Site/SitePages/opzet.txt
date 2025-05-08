@@ -1,0 +1,17 @@
+    <SidebarProvider>
+      <SidebarApp />
+      <SidebarInset>
+        #Header
+        #inhoud
+      </SidebarInset>
+    </SidebarProvider>
+
+
+
+
+
+
+    <Helmet>
+      <title>PvG - </title>
+      <link rel="icon" type="ico" href="/public/logo.ico"/>
+    </Helmet>
